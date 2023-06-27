@@ -7,3 +7,37 @@
 .nav-link {
 	text-decoration: none;
 }
+.image-link {
+	text-decoration: none;
+}
+.table-data {
+	padding: 15px;
+}
+.header {
+	text-align: center; 
+	margin: 0 0 80px;
+}
+.image {
+	display: block;
+	margin: 0 auto;"
+}
+.book-report {
+	width: 500px; 
+	margin: 20px auto; 
+	padding: 30px; 
+	background-color: #fafafa;
+}
+.book-image {
+	float: left; 
+	margin: 0 40px 0 0;
+}
+.blockquote {
+	font-style: italic; 
+	font-size: 20px;
+}
+.span {
+	font-style: normal; 
+	font-size: 24px; 
+	font-weight: bold; 
+	color: red;
+}
